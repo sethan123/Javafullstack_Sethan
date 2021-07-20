@@ -1,4 +1,4 @@
-package module2;
+package module2_Array;
 
 public class Strings_Class {
 
@@ -12,7 +12,7 @@ public class Strings_Class {
 	 System.out.println(str.lastIndexOf("d"));
 	 System.out.println(str.contains("Qspider"));
 	 System.out.println(str.startsWith("qs"));
-	 System.out.println(str.endsWith("der"));
+	 System.out.println(str.endsWith("der"));  
 	 System.out.println(str.equals("qspi"));
 	 System.out.println(str.equalsIgnoreCase("Qspider"));
 	 System.out.println(str.toUpperCase());

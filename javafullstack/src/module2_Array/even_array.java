@@ -1,4 +1,4 @@
-package module2;
+package module2_Array;
 
 public class even_array {
 
